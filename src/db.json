@@ -1,0 +1,54 @@
+{
+  "vacations": 
+  [
+    {
+      "id": 1,
+      "title": "Férias no Caribe",
+      "description": "Férias relaxantes no Caribe",
+      "date": "2024-01-01",
+      "location": "Caribe",
+      "participants": "5"
+    },
+    {
+      "id": 2,
+      "title": "Férias na Europa",
+      "description": "Férias culturais na Europa",
+      "date": "2024-06-01",
+      "location": "Europa",
+      "participants": "4"
+    },
+    {
+      "id": 3,
+      "title": "Férias na Califórnia",
+      "description": "Férias relaxantes na Califórnia",
+      "date": "2024-03-06",
+      "location": "Califórnia",
+      "participants": "5"
+    },
+    {
+      "id": 4,
+      "title": "Férias no Japão",
+      "description": "Férias culturais no Japão",
+      "date": "2024-06-01",
+      "location": "Japão",
+      "participants": "4"
+    },
+    {
+      "id": 5,
+      "title": "Férias na Disney",
+      "description": "Férias relaxantes no Disney",
+      "date": "2024-05-03",
+      "location": "Disney",
+      "participants": "5"
+    },
+    {
+      "id": 6,
+      "title": "Férias em Lisboa",
+      "description": "Férias culturais em Lisboa",
+      "date": "2024-03-03",
+      "location": "Lisboa",
+      "participants": "4"
+    }
+  ]
+}
+
